@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Prata|Quicksand&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+
+@import url("components/banner.css") ;
+@import url("components/card.css") ;
+@import url("components/cards.css") ;
+
+body {background: #f9f7f7; color: #7d7d7d;font-family:'Quicksand', sans-serif; margin: 0px;
+   min-height: 100%;
+   width: 100%;}
+h1 {color: #000000; font-family: "Prata", serif}
+h2 {color: #000000; font-family: "Prata", serif;  margin-top: 00px;}
+h3 {color: #282923; font-family: 'Libre Baskerville', serif, }
+h4 {background: #f9f7f7; color: #7d7d7d;font-family:'Quicksand', sans-serif, }
+p { padding: 30px; margin: 10px; margin-top: 0px;
+    padding-top: 00px;}
+a {text-decoration: none}
+
+.list-inline{color: #7d7d7d; padding-left: 0px; list-style: none;}
+.list-inline li{ color: #7d7d7d; display: inline; padding: 10px;}
+li {color: #7d7d7d; }
+li a { text-decoration: none; color: #7d7d7d; width: 20px; height: 20px}
+.li:hover {background-color: #282923; color: #e3deda;}
+
+.typeform-widget{height: 200px;}
