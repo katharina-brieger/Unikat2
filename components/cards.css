@@ -1,0 +1,4 @@
+.cards { height: 100%, width:100%; background: #ffe6e6; display: flex;
+	flex-wrap: wrap; padding: 100px; background-size: cover; align-items: center; justify-content: center;}
+
+.card{ flex-basis: 300px; flex-grow: 1; margin: 10px;}
