@@ -26,3 +26,5 @@ li a { text-decoration: none; color: #7d7d7d; width: 20px; height: 20px}
 .li:hover {background-color: #282923; color: #e3deda;}
 
 .typeform-widget{height: 200px;}
+.card-bottom{ height: 50px; align-items: center; text-align: center;
+ justify-content: space-around;}
